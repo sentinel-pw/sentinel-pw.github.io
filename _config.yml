@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Sentinel
 description: A powerful password management disord bot
+show_downloads: true
 darkmode: true
 logo_url: https://github.com/sentinel-pw/sentinel-discord/blob/main/docs/logo.png
 buttons:
