@@ -1,5 +1,4 @@
 # Welcome to Sentinel!
-## Password Manager Bot for Discord
 
 Sentinel is a powerful, efficient and fully secure password managing Discord Bot! With password being stored as Cypher-text, sentinel assures a secure environment for your password storage.
 
