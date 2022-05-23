@@ -12,7 +12,7 @@ Sentinel provides a safe and secure environment even within any Discord server b
 | 1. | `>snew` | To start using sentinel, every user must have to run this command in #sentinel-main channel. This will initialise the bot and create a private channel for the user. | `>snew` |
 | 2. | `>sadd` | This command will allow user to add the passwords. This command takes in 3 parameters: username, password and website. | `>sadd cypher compaq google.com` |
 | 3. | `>sget` | This command will print all the passwords of a user in a beautiful tabular format. | `>sget` |
-| 4. | `>delete` | This command will allow the user to delete his/her desired password. This command takes 2 parameters: username and website of the desired password to be deleted. | `>sdelete cypher google.com` |
+| 4. | `>sdelete` | This command will allow the user to delete his/her desired password. This command takes 2 parameters: username and website of the desired password to be deleted. | `>sdelete cypher google.com` |
 | 5. | `>shelp` | Get all commands and important links. | `>shelp` |
 
 ## Security levels
