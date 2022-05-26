@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 title: Sentinel
 description: A powerful password management disord bot
-show_downloads: true
+show_downloads: false
+github:
+  zip_url: https://github.com/sentinel-pw
+  another_url: https://github.com/sentinel-pw
