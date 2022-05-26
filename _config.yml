@@ -2,16 +2,3 @@ theme: jekyll-theme-cayman
 title: Sentinel
 description: A powerful password management disord bot
 show_downloads: true
-darkmode: true
-logo_url: https://github.com/sentinel-pw/sentinel-discord/blob/main/docs/logo.png
-buttons:
-      zip_hide: true
-      tar_hide: true
-      github_url: https://github.com/sentinel-pw/sentinel-discord
-colors:
-    gradient_left: "#155799"
-    gradient_right: "#159957"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
